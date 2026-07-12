@@ -27,8 +27,8 @@ This project demonstrates real-time **endpoint security monitoring** on a Window
 
 ## 🖥️ Dashboard: Windows Endpoint Security Dashboard
 
-![Windows Endpoint Security Dashboard - Page 1](images/dashboard-1.png)
-![Windows Endpoint Security Dashboard - Page 2](images/dashboard-2.png)
+![Windows Endpoint Security Dashboard - Page 1](/dashboard-1.png)
+![Windows Endpoint Security Dashboard - Page 2](/dashboard-2.png)
 
 The dashboard has 4 panels, each built as a standalone SPL search:
 
